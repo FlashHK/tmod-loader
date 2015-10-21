@@ -1,2 +1,2 @@
-# tmod-loader
-ÓÉ [`tmodjs`](https://github.com/aui/tmodjs) ¸ÄÔìµÄ [`arttemplate`](https://github.com/aui/artTemplate) webpack loader¡£
+ï»¿# tmod-loader
+ç”± [`tmodjs`](https://github.com/aui/tmodjs) æ”¹é€ çš„ [`arttemplate`](https://github.com/aui/artTemplate) webpack loaderã€‚
