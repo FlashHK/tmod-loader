@@ -1,15 +1,9 @@
 {
-  "name": "webpack-example",
+  "name": "test",
   "version": "1.0.0",
-  "main": "src/main.js",
+  "main": "src/index.js",
   "devDependencies": {
-    "html-loader": "^0.3.0",
     "webpack": "^1.9.7",
-    "tmod-loader" : "*",
-    "tmodjs" : "*"
-  },
-  "scripts": {
-    "dev": "webpack --watch",
-    "build": "webpack -p"
+    "tmod-loader" : "*"
   }
 }
