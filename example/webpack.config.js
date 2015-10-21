@@ -1,5 +1,5 @@
 module.exports = {
-  entry: "./src/main.js",
+  entry: "./src/index.js",
   output: {
     path: "./build",
     publicPath: "/build/",
@@ -7,7 +7,6 @@ module.exports = {
   },
   module: {
     loaders: [
-      { test: /\.html/, loader: "html" },
       {
           test: /\.tpl$/,
           loader: "tmod",

@@ -1,9 +1,9 @@
 {
-  "name": "test",
+  "name": "example",
   "version": "1.0.0",
   "main": "src/index.js",
   "devDependencies": {
-    "webpack": "^1.9.7",
-    "tmod-loader" : "*"
+    "tmod-loader" : "0.0.1",
+    "webpack": "^1.9.7"
   }
 }
