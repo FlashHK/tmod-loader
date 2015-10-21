@@ -1,0 +1,15 @@
+{
+  "name": "tmod-loader",
+  "version": "0.0.1",
+  "description": "artTemplate loader module for webpack",
+  "keywords": [
+    "template",
+    "artTemplate",
+    "CommonJS",
+    "TmodJS"
+  ],
+  "author": "FlashHK",
+  "dependencies": {
+    "art-template": "3.0.x"
+  }
+}
