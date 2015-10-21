@@ -2,6 +2,7 @@
   "name": "tmod-loader",
   "version": "0.0.1",
   "description": "artTemplate loader module for webpack",
+  "main": "index.js",
   "keywords": [
     "template",
     "artTemplate",

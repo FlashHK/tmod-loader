@@ -1,0 +1,15 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "devDependencies": {
+    "html-loader": "^0.3.0",
+    "webpack": "^1.9.7",
+    "tmod-loader" : "*",
+    "tmodjs" : "*"
+  },
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack -p"
+  }
+}
