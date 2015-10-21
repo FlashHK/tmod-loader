@@ -1,9 +1,8 @@
 ﻿# tmod-loader
 由 [`tmodjs`](https://github.com/aui/tmodjs) 改造的 [`artTemplate`](https://github.com/aui/artTemplate) loader，用于webpack 。
 
-## 用法
 
-### webpack 配置
+## webpack 配置
 
 ```javascript
 {
@@ -34,6 +33,6 @@
 }
 ```
 
-### 模板
+## 模板
 
 模板语法参考[`artTemplate`](https://github.com/aui/artTemplate)
