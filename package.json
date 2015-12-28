@@ -1,8 +1,9 @@
 {
   "name": "tmod-loader",
   "version": "0.0.2",
+  "readmeFilename": "README.md",
   "description": "artTemplate loader module for webpack",
-  "main": "index.js",
+  "homepage": "https://github.com/FlashHK/tmod-loader",
   "keywords": [
     "template",
     "artTemplate",
@@ -10,6 +11,11 @@
     "TmodJS"
   ],
   "author": "FlashHK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/FlashHK/tmod-loader.git"
+  },
+  "main": "index.js",
   "dependencies": {
     "art-template": "3.0.x"
   }
